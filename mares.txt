@@ -1,3 +1,5 @@
 Mediterraneo
 Cantabrico
 Baltico
+Azul
+Verde
